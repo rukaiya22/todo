@@ -1,0 +1,15 @@
+.container {
+  background-color: rgb(149, 124, 172);
+  height: 100vh;
+  padding: 30px;
+  color: azure;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: baseline;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20;
+}
